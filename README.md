@@ -1,2 +1,5 @@
-# Data_Structure_Algorithm
-All the programs are done using C Language.
+# Data Structure & Algorithm
+Language : C
+
+
+Ps:Share some of your algoritms ^_^
